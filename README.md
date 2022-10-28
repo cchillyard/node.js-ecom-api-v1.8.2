@@ -5,3 +5,6 @@
 
 ## RUN
 ./ `npm run dev`
+
+## BUILD
+./ `npm run build`
