@@ -7,4 +7,4 @@
 ./ `npm run dev`
 
 ## BUILD
-./ `npm run build`
+./ `npm run buil`
